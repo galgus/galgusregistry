@@ -1,5 +1,5 @@
 {
-    "dl": "https://crates.io.galgus.net/api/v1/crates",
-    "api": "https://crates.io.galgus.net",
+    "dl": "https://crates.galgus.net/api/v1/crates",
+    "api": "https://crates.galgus.net",
     "allowed-registries": ["https://github.com/rust-lang/crates.io-index"]
 }
